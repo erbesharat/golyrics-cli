@@ -17,9 +17,23 @@
 			"Rev": "f04e003e4115787c6272636780bc206e5ffad6c4"
 		},
 		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v1.1.0-4-gbf82308",
+			"Rev": "bf82308e8c8546dc2b945157173eb8a959ae9505"
+		},
+		{
 			"ImportPath": "github.com/mamal72/golyrics",
 			"Comment": "v2.0.0",
 			"Rev": "f3131081ee0f1ce5cdc5d54ee18c69100b037c36"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Comment": "v0.0.6-9-gd228849",
+			"Rev": "d228849504861217f796da67fae4f6e347643f15"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8"
 		},
 		{
 			"ImportPath": "github.com/urfave/cli",
@@ -33,6 +47,10 @@
 		{
 			"ImportPath": "golang.org/x/net/html/atom",
 			"Rev": "4971afdc2f162e82d185353533d3cf16188a9f4e"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "30237cf4eefd639b184d1f2cb77a581ea0be8947"
 		}
 	]
 }

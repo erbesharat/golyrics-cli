@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/fatih/color"
 	"github.com/mamal72/golyrics"
 	"github.com/urfave/cli"
 )
@@ -29,8 +30,10 @@ func main() {
 			if err != nil {
 				panic(err)
 			}
-
-			fmt.Printf("Lyrics of %s by %s:\n%s", track.Name, track.Artist, track.Lyrics)
+			color.Set(color.FgCyan)
+			fmt.Printf("\"%s\" by \"%s\":\n\n", track.Name, track.Artist)
+			color.Unset()
+			fmt.Print(track.Lyrics)
 		} else {
 			fmt.Println("Please give a track - For more information check --help")
 		}
