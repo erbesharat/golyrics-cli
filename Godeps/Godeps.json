@@ -24,7 +24,7 @@
 		{
 			"ImportPath": "github.com/mamal72/golyrics",
 			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
+			"Rev": "9d6c20794e3c228adc0e713e9799406720ebfe1c"
 		},
 		{
 			"ImportPath": "github.com/mattn/go-colorable",
@@ -51,31 +51,6 @@
 		{
 			"ImportPath": "golang.org/x/sys/unix",
 			"Rev": "30237cf4eefd639b184d1f2cb77a581ea0be8947"
-		},
-		{
-			"ImportPath": "github.com/mamal72/golyrics/vendor/github.com/PuerkitoBio/goquery",
-			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
-		},
-		{
-			"ImportPath": "github.com/mamal72/golyrics/vendor/github.com/buger/jsonparser",
-			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
-		},
-		{
-			"ImportPath": "github.com/mamal72/golyrics/vendor/github.com/andybalholm/cascadia",
-			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
-		},
-		{
-			"ImportPath": "github.com/mamal72/golyrics/vendor/golang.org/x/net/html",
-			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
-		},
-		{
-			"ImportPath": "github.com/mamal72/golyrics/vendor/golang.org/x/net/html/atom",
-			"Comment": "v2.0.1",
-			"Rev": "66061edd87e5e566aa22d887c7721f3133e66b69"
 		}
 	]
 }
